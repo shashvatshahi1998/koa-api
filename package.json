@@ -15,7 +15,7 @@
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "fs": "0.0.1-security",
-    "knex": "^0.17.6",
+    "knex": "^0.20.1",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-passport": "^4.0.1",
